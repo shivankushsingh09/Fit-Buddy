@@ -1,6 +1,6 @@
 # FitBuddy
 
-FitBuddy is a comprehensive fitness tracking application developed by Team 01. It helps users track their workouts, monitor progress, and achieve their fitness goals.
+FitBuddy is a comprehensive fitness tracking web application. It helps users track their workouts, monitor progress, and achieve their fitness goals.
 
 ## Table of Contents
 
