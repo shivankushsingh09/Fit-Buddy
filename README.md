@@ -121,7 +121,6 @@ Fit-Buddy/
 │ ├── public/  
 │ ├── .env.example  
 │ └── package.json  
-├── Presentation
 ├── .gitignore  
 ├── README.md  
 ├── package-lock.json  
