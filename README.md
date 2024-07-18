@@ -103,7 +103,6 @@ FitBuddy provides a platform for users to track their fitness activities, set go
 ## Directory Structure
 
 Fit-Buddy/
-├── Presentation
 ├── backend/  
 │ ├── controllers/  
 │ ├── models/  
@@ -122,6 +121,7 @@ Fit-Buddy/
 │ ├── public/  
 │ ├── .env.example  
 │ └── package.json  
+├── Presentation
 ├── .gitignore  
 ├── README.md  
 ├── package-lock.json  
