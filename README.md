@@ -103,6 +103,7 @@ FitBuddy provides a platform for users to track their fitness activities, set go
 ## Directory Structure
 
 Fit-Buddy/
+├── Presentation
 ├── backend/  
 │ ├── controllers/  
 │ ├── models/  
