@@ -102,7 +102,7 @@ FitBuddy provides a platform for users to track their fitness activities, set go
 
 ## Directory Structure
 
-FITBUDDY-TEAM-01/
+Fit-Buddy/
 ├── backend/  
 │ ├── controllers/  
 │ ├── models/  
@@ -121,9 +121,6 @@ FITBUDDY-TEAM-01/
 │ ├── public/  
 │ ├── .env.example  
 │ └── package.json  
-├── Testing/  
-├── Defect Sheet/  
-├── PPT/  
 ├── .gitignore  
 ├── README.md  
 ├── package-lock.json  
@@ -131,7 +128,5 @@ FITBUDDY-TEAM-01/
 
 In this structure:
 
-The backend folder contains all the backend code files.
-The frontend folder contains all the frontend code files.
-The PPT folder contains presentation for the entire project.
-The testing folder contains documentation related to testing for the project.
+The Backend folder contains all the backend code files.
+The Frontend folder contains all the frontend code files.
