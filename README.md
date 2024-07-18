@@ -122,7 +122,6 @@ Fit-Buddy/
 │ ├── .env.example  
 │ └── package.json  
 ├── .gitignore
-├── License.md  
 ├── README.md  
 ├── package-lock.json  
 └── package.json
